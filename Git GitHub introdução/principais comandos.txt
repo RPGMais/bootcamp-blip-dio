@@ -1,0 +1,8 @@
+GIT/GitHub:
+	Principais comandos
+		git init
+		git status
+		git add *
+		git commit -m "comentario que descreva o commit"
+		git remote add origin https://github.com/RPGMais/livro-receitas.git
+		git push origin
